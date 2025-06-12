@@ -1,5 +1,5 @@
 package ru.ievetrov.lesson_2
-import kotlin.math.*
+
 
 fun main() {
     val markFirstStudent: Byte = 3
