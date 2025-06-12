@@ -8,5 +8,6 @@ fun main() {
     val years = 20
     val totalSum = sumOfDeposit * ((1 + (interestRate / 100))).pow(years.toDouble())
 
-    println(round(totalSum * 1000) / 1000.0)
+//    println(round(totalSum * 1000) / 1000.0)
+    println("%.3f".format(totalSum))
 }
