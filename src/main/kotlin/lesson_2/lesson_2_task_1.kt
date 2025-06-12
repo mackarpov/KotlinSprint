@@ -1,5 +1,6 @@
 package ru.ievetrov.lesson_2
 
+
 fun main() {
     val markFirstStudent: Byte = 3
     val markSecondStudent: Byte = 4
